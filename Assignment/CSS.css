@@ -1,0 +1,54 @@
+body{
+  background-color: black;
+}
+#red{
+  font-size: 100px;
+  text-align: center;
+  color:White;
+  background-color: black;
+  background-image: url(img/12.jpg);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight:bold;
+}
+
+#asim{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  background-color:#ef8354;
+  text-align: center;
+  font-weight: bold;
+}
+#pas{
+  font-weight: bold;
+}
+
+#a{
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  background-color:  #0e7c7b;
+}
+.i{
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  background-color: #9c538b;
+}
+a:link{
+  color:#ef8354
+}
+a:hover{
+  color:#9c528b
+}
+#s{
+  text-align: center;
+  color:white
+}
+p{
+  color: white;
+}
+h3{
+  color: white;
+}
